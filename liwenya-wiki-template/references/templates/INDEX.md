@@ -1,10 +1,10 @@
 # wiki_dump/templates 镜像
 
-- 同步时间：2026-08-30 09:35 UTC
+- 同步时间：2026-09-04 03:00 UTC
 - 上游：https://github.com/GardenEric260122/lwy_wiki（main）
-- 上游 commit：3fdea08c50ba8eb6a1200623d3677fd00d47a380
+- 上游 commit：0cd11b4be0170e1e07a1a11ea63459d97e3b1138
 - 路径：wiki_dump/templates
-- 同步文件：20 个（黑名单排除 92 个）
+- 同步文件：24 个（黑名单排除 92 个）
 - 策略：黑名单（见 scripts/exclude_templates.txt，可自行增删）
 
 ## 同步文件
@@ -16,6 +16,7 @@
 - Institutions.wiki
 - Theory.wiki
 - Theory__styles.css.wiki
+- 不支持.wiki
 - 免责声明.wiki
 - 开始您的创作.wiki
 - 引文.wiki
@@ -25,9 +26,12 @@
 - 文亚站点导航.wiki
 - 来函.wiki
 - 画廊.wiki
+- 统计卡.wiki
 - 维护提示.wiki
+- 网格.wiki
 - 行为准则注意.wiki
 - 行为准则禁止.wiki
+- 重要公告.wiki
 - 页头.wiki
 
 ## 说明
