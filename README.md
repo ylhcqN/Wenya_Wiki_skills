@@ -48,7 +48,7 @@
 ### 前置条件
 
 - 已经安装任意agent 框架
-- 文亚宇宙 Wiki 镜像（需另行获取，130 篇条目 + 模板，可选）
+- 文亚宇宙 Wiki 镜像（需另行获取，224 篇条目 + 118 个模板 + 47 个分类，可选）
 
 ### 步骤
 
@@ -93,9 +93,9 @@ Wenya_Wiki_skills/
 ├── README.md
 ├── LICENSE                     # MIT License
 ├── liwenya-universe/
-│   └── SKILL.md               # 世界观技能定义（335 行）
+│   └── SKILL.md               # 世界观技能定义（456 行）
 └── liwenya-wiki-template/
-    └── SKILL.md               # Wiki 模板技能定义（380 行）
+    └── SKILL.md               # Wiki 模板技能定义（399 行）
 ```
 
 ---
@@ -107,7 +107,7 @@ Wenya_Wiki_skills/
 | 一手语料 | 李文亚教授主题分类语料库（T01-T09） | 1218 篇 |
 | 一手语料 | 李文亚全集 srt 字幕（图片转文本 OCR） | 1170 集 |
 | 二手来源 | 社会对李文亚评价（B 站视频字幕） | 3 个视频 |
-| Wiki 镜像 | `lwy_wiki/wiki_dump/`（articles + templates + categories） | 130 篇条目 |
+| Wiki 镜像 | `lwy_wiki/wiki_dump/`（articles + templates + categories） | 224 篇条目 + 118 个模板 + 47 个分类 |
 
 ---
 
