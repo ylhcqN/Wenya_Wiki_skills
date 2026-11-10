@@ -1,6 +1,6 @@
 # wiki_dump/templates 镜像
 
-- 同步时间：2026-11-09 12:37 UTC
+- 同步时间：2026-11-10 12:16 UTC
 - 上游：https://github.com/GardenEric260122/lwy_wiki（main）
 - 上游 commit：dd274484dafa93dea946980c15869d845687bc79
 - 路径：wiki_dump/templates
